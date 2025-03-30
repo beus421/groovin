@@ -66,14 +66,5 @@ If you'd like to contribute to this project, please follow these steps:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
+Project Link: [https://github.com/beus421/groovin](https://github.com/beus421/groovin)
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/yourusername/groovinn](https://github.com/yourusername/groovinn)
-
-## Acknowledgments
-
-- All the artists whose work inspired this project
-- [Bootstrap](https://getbootstrap.com/) for the responsive framework
-- [Font Awesome](https://fontawesome.com/) for the icons
